@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Nimesh ⚡</h1>
+<h1 align="center">⚡ Nimesh Yadav ⚡</h1>
 <h3 align="center">C | C++ • Data Structures & Algorithms • Problem Solver</h3>
 
 <p align="center">
