@@ -20,7 +20,7 @@
 using namespace std;
 
 int main() {
-    while (true) {
+    while (alive) {
         pick_problem();
         understand_constraints();
         design_algorithm();
