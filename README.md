@@ -1,10 +1,9 @@
 <h1 align="center">Nimesh Yadav</h1>
 
+<h1 align="center">Nimesh Yadav</h1>
+
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Data+Structures+%26+Algorithms;C+%7C+C%2B%2B+Developer;Competitive+Programming+Mindset;Optimizing+Time+%26+Space+Complexity;Consistency+Builds+Mastery" />
 </p>
 
 <p align="center">
