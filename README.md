@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Algorithmic Identity
+<h2 align="center">🧠 Algorithmic Identity</h2>
 
 ```cpp
 #include <bits/stdc++.h>
