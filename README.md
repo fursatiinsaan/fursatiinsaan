@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🧠 Algorithmic Identity</h2>
+## 🧠 Algorithmic Identity
 
 ```cpp
 #include <bits/stdc++.h>
@@ -30,3 +30,18 @@ int main() {
     }
     return 0;
 }
+```
+
+---
+
+<h2 align="center">💻 Terminal</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=%24+whoami;Nimesh+Yadav;Competitive+Programmer;C%2B%2B+Developer;%24+current_focus;Data+Structures+%26+Algorithms;%24+goal;Become+Elite+Problem+Solver" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fursatiinsaan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
