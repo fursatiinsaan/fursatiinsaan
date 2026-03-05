@@ -1,11 +1,6 @@
 <h1 align="center">Nimesh Yadav</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=950&lines=Data+Structures+%26+Algorithms;C+%7C+C%2B%2B+Developer;Competitive+Programming+Mindset;Optimizing+Time+%26+Space+Complexity;Consistency+Builds+Mastery" />
 </p>
 
@@ -18,7 +13,7 @@
 
 ---
 
-# 🧠 Algorithmic Identity
+## 🧠 Algorithmic Identity
 
 ```cpp
 #include <bits/stdc++.h>
