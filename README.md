@@ -1,9 +1,7 @@
 <h1 align="center">Nimesh Yadav</h1>
 
-<h1 align="center">Nimesh Yadav</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Data+Structures+%26+Algorithms;C+%7C+C%2B%2B+Developer;Competitive+Programming+Mindset;Optimizing+Time+%26+Space+Complexity;Consistency+Builds+Mastery" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Data+Structures+%26+Algorithms;C%2B%2B+Developer;Competitive+Programming+Mindset;Optimizing+Time+%26+Space+Complexity;Consistency+Builds+Mastery" />
 </p>
 
 <p align="center">
@@ -13,7 +11,7 @@
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Optimized-9cf?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
---- 
+---
 
 ## 🧠 Algorithmic Identity
 
@@ -31,5 +29,4 @@ int main() {
         submit();
     }
     return 0;
-} 
-<!-- snake trigger -->
+}
